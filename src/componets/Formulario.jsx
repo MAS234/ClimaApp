@@ -58,7 +58,9 @@ function Formulario() {
 
             <input 
             type="submit"
-            value={"Consultar Clima"} />
+            value={"Consultar Clima"} 
+            className="hover:scale-95 duration-300"
+            />
         </form>
     </div>
   )

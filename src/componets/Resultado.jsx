@@ -16,7 +16,7 @@ const Resultado = () => {
       <div className="flex justify-center">
       <p className="mt-2 text-3xl text-center">
          {parseInt(main.temp - kelvin)} <span className="font-bold text-sm align-super">&#x2103;</span>
-         <img className="w-40" src="/src/assets/Captura de pantalla 2023-02-08 110023_preview_rev_1.png" alt="sol" />
+         <img className="w-40" src="/src/assets/clima.png" alt="sol" />
       </p>
       </div>
 

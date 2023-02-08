@@ -17,7 +17,7 @@ function AppClima() {
         cargando ? <Loading/> :
         resultado?.name ? <Resultado/> :
         noHayResultados ? <p>{noHayResultados}</p> :
-        <p className='text-center text-white'>El clima se va a mostrar aqui</p>
+        <p className='text-center text-gray-600'>El clima se va a mostrar aqui</p>
         }
         
 
