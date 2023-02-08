@@ -9,15 +9,15 @@ body {
   color: #000000;
   background-color: #076ace;
   font-size: 1.6rem;
-
+  
   background-image: url(assets/jackson-hendry-eodA_8CTOFo-unsplash.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:100%;
   background-position: center;
 
-
-
 }
+
+
 header {
   padding: 1.5rem;
 

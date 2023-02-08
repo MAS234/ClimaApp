@@ -33,6 +33,8 @@ const ClimaProvider = ({children}) =>{
         setNoHayResultados(false)
 
         try{
+            setResultado()
+            
             const {ciudad , pais} = datos
 
             const appId = import.meta.env.VITE_API_KEY
